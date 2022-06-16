@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family:poppins;
+    src: url(fonts/Poppins/Poppins-BoldItalic.ttf);
+}
+@font-face {
+    font-family:robo;
+    src: url(fonts/Roboto/Roboto-Light.ttf);
+}
+@font-face {
+    font-family:pani;
+    src: url(fonts/Panipuri.ttf);
+}
+h1{
+    color: rgb(50, 126, 19);
+    font-family: poppins;
+}
+h2{
+    color: blue;
+    font-family: robo;
+}
+h3{
+    color: rgb(255, 60, 0);
+    font-family: pani;
+}
